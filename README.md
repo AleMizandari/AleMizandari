@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Mizandari</h1>
 <h3 align="center">Im Python and Full Stack Developer from Georgia</h3>
 
-<img align="right" width="400" src="https://static.vecteezy.com/system/resources/previews/011/153/364/original/3d-website-developer-working-on-laptop-illustration-png.png">
+<img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4788760-3988051.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alemizandari&label=Profile%20views&color=0e75b6&style=flat" alt="alemizandari" /> </p>
 
