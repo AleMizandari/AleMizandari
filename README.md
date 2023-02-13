@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alemizandari&label=Profile%20views&color=0e75b6&style=flat" alt="alemizandari" /> </p>
 
-- 🔭 I’m currently working on **Web Application Firewall**
+- 🔭 I’m Currently Wrking on **Web Application Firewall**
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m Currently Learning **React, Next.js**
 
-- 📫 How to reach me **Mizandarialexandre@gmail.com**
+- 📫 How to Reach me **Mizandarialexandre@gmail.com**
 
 
 
