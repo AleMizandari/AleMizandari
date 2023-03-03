@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alemizandari&label=Profile%20views&color=0e75b6&style=flat" alt="alemizandari" /> </p>
 
-- 🔭 I’m Currently Working on **Web Application Firewall**
+- 🔭 I’m Currently Working on **Web Application Firewall Based on AI & ML**
 
 - 🌱 I’m Currently Learning **React, Next.js**
 
